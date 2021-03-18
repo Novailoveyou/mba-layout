@@ -1,71 +1,71 @@
 @font-face {
-	font-display: swap;
-	font-family: "Styrene";
-	src: url(../fonts/StyreneAWeb-Light.woff2) format("woff2"),
-	url("../fonts/StyreneAWeb-Light.woff") format("woff");
-	font-style: normal;
-	font-weight: 300;
+  font-display: swap;
+  font-family: 'Styrene';
+  src: url(../fonts/StyreneAWeb-Light.woff2) format('woff2'),
+    url('../fonts/StyreneAWeb-Light.woff') format('woff');
+  font-style: normal;
+  font-weight: 300;
 }
 
 @font-face {
-	font-display: swap;
-	font-family: "Styrene";
-	src: url(../fonts/StyreneAWeb-Regular.woff2) format("woff2"),
-	url("../fonts/StyreneAWeb-Regular.woff") format("woff");
-	font-style: normal;
-	font-weight: 400;
+  font-display: swap;
+  font-family: 'Styrene';
+  src: url(../fonts/StyreneAWeb-Regular.woff2) format('woff2'),
+    url('../fonts/StyreneAWeb-Regular.woff') format('woff');
+  font-style: normal;
+  font-weight: 400;
 }
 
 @font-face {
-	font-display: swap;
-	font-family: "Styrene";
-	src: url(../fonts/StyreneAWeb-Medium.woff2) format("woff2"),
-	url("../fonts/StyreneAWeb-Medium.woff") format("woff");
-	font-style: normal;
-	font-weight: 500;
+  font-display: swap;
+  font-family: 'Styrene';
+  src: url(../fonts/StyreneAWeb-Medium.woff2) format('woff2'),
+    url('../fonts/StyreneAWeb-Medium.woff') format('woff');
+  font-style: normal;
+  font-weight: 500;
 }
 
 @font-face {
-	font-display: swap;
-	font-family: "Styrene";
-	src: url(../fonts/StyreneAWeb-Bold.woff2) format("woff2"),
-	url("../fonts/StyreneAWeb-Bold.woff") format("woff");
-	font-style: normal;
-	font-weight: 700;
+  font-display: swap;
+  font-family: 'Styrene';
+  src: url(../fonts/StyreneAWeb-Bold.woff2) format('woff2'),
+    url('../fonts/StyreneAWeb-Bold.woff') format('woff');
+  font-style: normal;
+  font-weight: 700;
 }
 
 @font-face {
-	font-display: swap;
-	font-family: "Visuelt";
-	src: url(../fonts/VisueltPro-Medium.woff2) format("woff2"),
-	url("../fonts/VisueltPro-Medium.woff") format("woff");
-	font-style: normal;
-	font-weight: 500;
+  font-display: swap;
+  font-family: 'Visuelt';
+  src: url(../fonts/VisueltPro-Medium.woff2) format('woff2'),
+    url('../fonts/VisueltPro-Medium.woff') format('woff');
+  font-style: normal;
+  font-weight: 500;
 }
 
 @font-face {
-	font-display: swap;
-	font-family: "Visuelt";
-	src: url(../fonts/VisueltPro-Bold.woff2) format("woff2"),
-	url("../fonts/VisueltPro-Bold.woff") format("woff");
-	font-style: normal;
-	font-weight: 700;
+  font-display: swap;
+  font-family: 'Visuelt';
+  src: url(../fonts/VisueltPro-Bold.woff2) format('woff2'),
+    url('../fonts/VisueltPro-Bold.woff') format('woff');
+  font-style: normal;
+  font-weight: 700;
 }
 
 @font-face {
-	font-display: swap;
-	font-family: "MazzardH";
-	src: url(../fonts/MazzardH-Regular.woff2) format("woff2"),
-	url("../fonts/MazzardH-Regular.woff") format("woff");
-	font-style: normal;
-	font-weight: 400;
+  font-display: swap;
+  font-family: 'MazzardH';
+  src: url(../fonts/MazzardH-Regular.woff2) format('woff2'),
+    url('../fonts/MazzardH-Regular.woff') format('woff');
+  font-style: normal;
+  font-weight: 400;
 }
 
 @font-face {
-	font-display: swap;
-	font-family: "MazzardM";
-	src: url(../fonts/MazzardM-Bold.woff2) format("woff2"),
-	url("../fonts/MazzardM-Bold.woff") format("woff");
-	font-style: normal;
-	font-weight: 700;
+  font-display: swap;
+  font-family: 'MazzardM';
+  src: url(../fonts/MazzardM-Bold.woff2) format('woff2'),
+    url('../fonts/MazzardM-Bold.woff') format('woff');
+  font-style: normal;
+  font-weight: 700;
 }
